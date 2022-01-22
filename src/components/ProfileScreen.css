@@ -1,0 +1,276 @@
+.profileScreen{
+    
+    color:#fff;
+
+}
+.profileScreen__body{
+    
+    display:flex;
+    flex-direction:column;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:10%;
+    padding-bottom: 9%;
+    max-width:800px;
+}
+.profileScreen__info{
+    display:flex;
+}
+.profileScreen__body > h1{
+  
+    border-bottom:1px solid #282c2d;
+    margin-bottom: 20px;
+}
+.profileScreen__body > h3{
+    
+    font-size:40px;
+    font-weight:400;
+    border-bottom:1px solid #282c2d;
+    margin-bottom: 30px;
+}
+.profileScreen__info > img{
+    height:100px;
+}
+.profileScreen__details{
+    color:white;
+    margin-left:25px;
+    flex:1;
+}
+.profileScreen__details > h2{
+    background-color:gray;
+    padding:15px;
+    font-size:15px;
+    padding-left:20px;
+}
+.profileScreen__signOut{
+    padding:10px 20px;
+    font-size:1rem;
+    margin-top:5%;
+    width:100%;
+    color:#fff;
+    background-color: #e50914;
+    font-weight:600;
+    border:none;
+    cursor:pointer;
+}
+.profileScreen__plans{
+    margin-top:20px;
+}
+.profileScreen__plans >h3{
+    border-bottom: 1px solid #282c2d;
+    padding-bottom:20px;
+}
+
+.profileScreen__subscribe{
+    padding:10px 20px;
+    font-size:1rem;
+    float: right;
+    margin-top: 10px;
+    color:#fff;
+    background-color: #e50914;
+    font-weight:600;
+    border:none;
+    cursor:pointer; 
+   
+}
+.profileScreen__currentPlan{
+    padding:10px 20px;
+    font-size:1rem;
+    float: right;
+    margin-top: 10px;
+    color:#fff;
+    background-color: gray;
+    font-weight:600;
+    border:none;
+    cursor:pointer; 
+}
+table{
+ width: 100%;
+ padding-top: 10px;
+ padding-bottom: 5px;
+ border-collapse: separate;
+ border-spacing: 0 2rem;
+}
+
+
+@media only screen and (max-width:884px) {
+    .profileScreen__body{
+       
+        
+        height:100vh;
+        width: 100vw;
+        
+    }  
+    .profileScreen__body > h1{
+        padding-top: 5rem;
+        padding-left: 2rem;
+    }
+    .profileScreen__plans{
+        width: 70vw;
+        
+    }
+    .profileScreen__info{
+      
+      padding-top: 3rem;
+    
+      padding-right: 3rem;
+      padding-left: 2rem;
+    }
+    .profileScreen__details > h2{
+       
+        padding:16px;
+        font-size:20px;
+       
+        
+    }
+    .profileScreen__info > img{
+        height:98px;
+    }
+    .profileScreen__details{
+        
+        margin-left:20px;
+       
+    }
+
+   
+}
+@media only screen and (max-width:430px) {
+    .profileScreen__body{
+       
+        
+        height:100vh;
+        width: 100vw;
+        
+    }  
+    .profileScreen__body > h1{
+        padding-top: 5rem;
+        padding-left: 2rem;
+    }
+    .profileScreen__plans{
+        width: 60vw;
+        
+    }
+    .profileScreen__info{
+      
+      padding-top: 3rem;
+    
+      padding-right: 3rem;
+      padding-left: 2rem;
+    }
+    .profileScreen__details > h2{
+       
+        padding:5.5px;
+        font-size:14px;
+       
+        
+    }
+    .profileScreen__info > img{
+        height:70px;
+    }
+    .profileScreen__details{
+        
+        margin-left:17px;
+       
+    }
+
+   
+}
+@media only screen and (max-width:370px) {
+    .profileScreen__body{
+       
+        
+        height:100vh;
+        width: 100vw;
+        
+    }  
+    .profileScreen__body > h1{
+        padding-top: 5rem;
+        padding-left: 2rem;
+    }
+    .profileScreen__plans{
+        width: 60vw;
+        
+    }
+    .profileScreen__info{
+      
+      padding-top: 3rem;
+    
+      padding-right: 3rem;
+      padding-left: 2rem;
+    }
+    .profileScreen__details > h2{
+       
+        padding:5.5px;
+        font-size:12px;
+       
+        
+    }
+    .profileScreen__info > img{
+        height:70px;
+    }
+    .profileScreen__details{
+        
+        margin-left:14px;
+       
+    }
+    .profileScreen__subscribe{
+        padding: 8px 12px;
+    }
+    .profileScreen__currentPlan{
+        padding: 8px 12px;
+    }
+   
+}
+@media only screen and (max-width:325px) {
+    .profileScreen__body{
+       
+        
+        height:110vh;
+        width: 100vw;
+        
+    }  
+    .profileScreen__body > h1{
+        padding-top: 7rem;
+        padding-left: 2rem;
+    }
+    .profileScreen__plans{
+        width: 65vw;
+        
+        
+    }
+    .profileScreen__info{
+      
+      padding-top: 3rem;
+      
+     
+    
+      padding-right: 3rem;
+      padding-left: 2rem;
+    }
+    .profileScreen__details > h2{
+       
+        padding:5.5px;
+        font-size:12px;
+       
+        
+    }
+    .profileScreen__info > img{
+        height:50px;
+    }
+    .profileScreen__details{
+        
+        margin-left:16px;
+       
+       
+    }
+    .profileScreen__subscribe{
+        padding: 6px 12px;
+    }
+    .profileScreen__currentPlan{
+        padding: 6px 12px;
+    }
+   
+}
+
+
