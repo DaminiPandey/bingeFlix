@@ -1,5 +1,7 @@
-# bingeFlix
-(A React based application for cinema lovers !)
+
+Binge Flix :
+
+(A React based application for cinema lovers!)
 
 Looking for the most talked about tv shows, movies from all around the world?
 They're all on Binge Flix !
@@ -46,7 +48,10 @@ Tools/ technologies used :
     
     
     
-    Video Walkthrough:
+Video Walkthrough:
+   
+     ![Binge_Flix_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/61384878/150675560-fe6b798c-313e-4f41-8340-82bbccb631ad.gif)
+
+
     
     
-     
