@@ -52,47 +52,49 @@ Tools/ technologies used :
     
 
 Video Walkthrough:
-   
-     
-
-https://user-images.githubusercontent.com/61384878/150675771-8721859c-441d-4055-b3fb-bc2315de57f8.mp4
 
 
 
-https://user-images.githubusercontent.com/61384878/150675801-0141c446-1f8f-4963-9e48-5f7c67e364dc.mp4
+    https://user-images.githubusercontent.com/61384878/150676519-56a19d43-f386-4617-b6c1-d5481e8eb162.mp4
+    
+
+
+    https://user-images.githubusercontent.com/61384878/150676614-d51ac2c3-1564-4ace-a6b7-fae57ddb3f0f.mp4
 
 
 
-https://user-images.githubusercontent.com/61384878/150675872-4d954863-0ce1-4fe0-a5a4-7d8aad198883.mp4
+    https://user-images.githubusercontent.com/61384878/150676630-e4de867b-d453-47b7-8e98-25b40b95ad8f.mp4
 
 
 
-https://user-images.githubusercontent.com/61384878/150675899-c9ce75af-d5d7-42da-a9aa-ae9c69e71ae3.mp4
+    https://user-images.githubusercontent.com/61384878/150676659-30df845a-2ea5-471f-9dea-5149f4e7949f.mp4
 
 
 
-https://user-images.githubusercontent.com/61384878/150675926-ed3fc68b-47dd-4bf8-91f5-ca5f6630a871.mp4
+    https://user-images.githubusercontent.com/61384878/150676681-bdd7c95b-f9e1-4e36-8e65-a4a84d621b68.mp4
 
 
 
-https://user-images.githubusercontent.com/61384878/150675984-fa2eb651-e998-4ada-b3af-2161effa9b48.mp4
+    https://user-images.githubusercontent.com/61384878/150676721-0da183e4-06d8-40da-b953-1eae0efb3913.mp4
 
 
 
-https://user-images.githubusercontent.com/61384878/150676010-c6b785af-b480-47d4-98ab-bc3f347d9ad2.mp4
+    https://user-images.githubusercontent.com/61384878/150676747-9be48676-8d49-4e8a-86f7-d5faf14353e6.mp4
 
 
 
-https://user-images.githubusercontent.com/61384878/150676033-0b358616-5fff-4cf1-b0e1-7abc288c2029.mp4
+    https://user-images.githubusercontent.com/61384878/150676767-784dbee7-d3ce-47d7-bd07-b2c2892b636b.mp4
 
 
 
-https://user-images.githubusercontent.com/61384878/150676055-13e3560a-2e99-49b8-b524-c53f4fb06ed0.mp4
+    https://user-images.githubusercontent.com/61384878/150676782-fae9d5c1-7bb8-4948-ba9c-b69b80033b36.mp4
 
 
 
 
-You can check the deployed app here 👉🏻 https://binge-flix.web.app
+
+
+You can check out the deployed app here 👉🏻 https://binge-flix.web.app
 
 Author : ✍🏻 "Damini Pandey"
 
