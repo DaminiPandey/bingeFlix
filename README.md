@@ -1,4 +1,7 @@
 
+
+
+
 Binge Flix :
 
 (A React based application for cinema lovers!)
@@ -47,11 +50,51 @@ Tools/ technologies used :
      Firebase ( Firebase Authentication + Firestore + Hosting )
     
     
-    
+
 Video Walkthrough:
    
-     ![Binge_Flix_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/61384878/150675560-fe6b798c-313e-4f41-8340-82bbccb631ad.gif)
+     
+
+https://user-images.githubusercontent.com/61384878/150675771-8721859c-441d-4055-b3fb-bc2315de57f8.mp4
 
 
-    
-    
+
+https://user-images.githubusercontent.com/61384878/150675801-0141c446-1f8f-4963-9e48-5f7c67e364dc.mp4
+
+
+
+https://user-images.githubusercontent.com/61384878/150675872-4d954863-0ce1-4fe0-a5a4-7d8aad198883.mp4
+
+
+
+https://user-images.githubusercontent.com/61384878/150675899-c9ce75af-d5d7-42da-a9aa-ae9c69e71ae3.mp4
+
+
+
+https://user-images.githubusercontent.com/61384878/150675926-ed3fc68b-47dd-4bf8-91f5-ca5f6630a871.mp4
+
+
+
+https://user-images.githubusercontent.com/61384878/150675984-fa2eb651-e998-4ada-b3af-2161effa9b48.mp4
+
+
+
+https://user-images.githubusercontent.com/61384878/150676010-c6b785af-b480-47d4-98ab-bc3f347d9ad2.mp4
+
+
+
+https://user-images.githubusercontent.com/61384878/150676033-0b358616-5fff-4cf1-b0e1-7abc288c2029.mp4
+
+
+
+https://user-images.githubusercontent.com/61384878/150676055-13e3560a-2e99-49b8-b524-c53f4fb06ed0.mp4
+
+
+
+
+You can check the deployed app here 👉🏻 https://binge-flix.web.app
+
+Author : ✍🏻 "Damini Pandey"
+
+
+
